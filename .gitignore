@@ -1,0 +1,6 @@
+.directory
+composer.lock
+library/*
+config/
+composer.phar
+.idea
