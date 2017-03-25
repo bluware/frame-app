@@ -26,7 +26,7 @@ class Package extends \Frame\Package
     {
         $router->get(
             '/', function() {
-                return response('text', 'Frame solution')
+                return response('text', 'Frame solution');
             }
         );
     }
